@@ -1,0 +1,122 @@
+[
+    {
+        "model": "MultiLang.Article",
+        "pk": 1,
+        "fields": {
+          "item": "header",
+          "item_verbose": "Header",
+          "translation": {
+            "en": "Django i18n Internationalization",
+            "fr": "Django i18n Internationalisation"
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 2,
+        "fields": {
+          "item": "wid1_title",
+          "item_verbose": "Widget 1 Title",
+          "translation": {
+            "en": "Custom jumbotron",
+            "fr": "Jumbotron personnalisé"
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 3,
+        "fields": {
+          "item": "wid1_body",
+          "item_verbose": "Widget 1 Body",
+          "translation": {
+            "en": "Using a series of utilities, you can create this jumbotron, just like the one in previous versions of Bootstrap. Check out the examples below for how you can remix and restyle it to your liking.",
+            "fr": "À l'aide d'une série d'utilitaires, vous pouvez créer ce jumbotron, tout comme celui des versions précédentes de Bootstrap. Consultez les exemples ci-dessous pour savoir comment vous pouvez le remixer et le relooker à votre guise."
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 4,
+        "fields": {
+          "item": "wid1_btn_text",
+          "item_verbose": "Widget 1 Button Text",
+          "translation": {
+            "en": "Example button",
+            "fr": "Exemple de bouton"
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 5,
+        "fields": {
+          "item": "wid2_title",
+          "item_verbose": "Widget 2 Title",
+          "translation": {
+            "en": "Change the background",
+            "fr": "Changer l'arrière-plan"
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 6,
+        "fields": {
+          "item": "wid2_body",
+          "item_verbose": "Widget 2 Body",
+          "translation": {
+            "en": "Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.",
+            "fr": "Échangez l'utilitaire de couleur d'arrière-plan et ajoutez un utilitaire de couleur `.text-*` pour mélanger l'apparence du jumbotron. Ensuite, mélangez et assortissez avec des thèmes de composants supplémentaires et plus encore."
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 7,
+        "fields": {
+          "item": "wid2_btn_text",
+          "item_verbose": "Widget 2 Button Text",
+          "translation": {
+            "en": "Example button",
+            "fr": "Exemple de bouton"
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 8,
+        "fields": {
+          "item": "wid3_title",
+          "item_verbose": "Widget 3 Title",
+          "translation": {
+            "en": "Add borders",
+            "fr": "Ajouter des bordures"
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 9,
+        "fields": {
+          "item": "wid3_body",
+          "item_verbose": "Widget 3 Body",
+          "translation": {
+            "en": "Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.",
+            "fr": "Ou, gardez-le léger et ajoutez une bordure pour une définition supplémentaire des limites de votre contenu. Assurez-vous de regarder sous le capot le HTML source ici car nous avons ajusté l'alignement et la taille du contenu des deux colonnes pour une hauteur égale."
+          }
+        }
+    },
+    {
+        "model": "MultiLang.Article",
+        "pk": 10,
+        "fields": {
+          "item": "wid3_btn_text",
+          "item_verbose": "Widget 3 Button Text",
+          "translation": {
+            "en": "Example button",
+            "fr": "Exemple de bouton"
+          }
+        }
+    }
+]
